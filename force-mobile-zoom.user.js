@@ -9,8 +9,9 @@
 // @grant        none
 // @run-at       document-start
 // @license      MIT
-// @homepage     https://github.com/Hurricane-0121/Force-mobile-zoom
 // @supportURL   https://github.com/Hurricane-0121/Force-mobile-zoom/issues
+// @downloadURL  https://github.com/Hurricane-0121/Force-mobile-zoom/raw/refs/heads/main/force-mobile-zoom.user.js
+// @updateURL    https://github.com/Hurricane-0121/Force-mobile-zoom/raw/refs/heads/main/force-mobile-zoom.user.js
 // ==/UserScript==
 
 (function() {
