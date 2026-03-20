@@ -1,5 +1,6 @@
 # 强制手机网页双指缩放 (Force Mobile Zoom)
-强制缩放 + 自动修复滚动容器（兼容所有主流网站）Force zoom + auto-fix scroll containers (Compatible with all major websites)
+强制缩放 + 自动修复滚动容器（兼容所有主流网站）
+Force zoom + auto-fix scroll containers (Compatible with all major websites)
 
 [![Greasy Fork](https://img.shields.io/greasyfork/dt/???)]()  <!-- 如果发布到 Greasy Fork 后可添加徽章 -->
 
