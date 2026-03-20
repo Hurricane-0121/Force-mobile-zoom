@@ -2,7 +2,7 @@
 强制缩放 + 自动修复滚动容器（兼容所有主流网站）
 Force zoom + auto-fix scroll containers (Compatible with all major websites)
 
-[![Greasy Fork 总安装量](https://img.shields.io/greasyfork/total-installs/570373)](https://greasyfork.org/zh-CN/scripts/570373)
+[![Greasy Fork 总安装量](https://img.shields.io/greasyfork/dt/570373)](https://greasyfork.org/zh-CN/scripts/570373)
 
 一个移动端用户脚本，**强制移动网页支持双指缩放**，并自动修复缩放后无法滚动的问题。适用于那些通过 `<meta viewport>` 禁止缩放的网站。
 
